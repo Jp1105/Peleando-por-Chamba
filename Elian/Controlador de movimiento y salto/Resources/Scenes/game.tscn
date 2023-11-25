@@ -1,0 +1,116 @@
+[gd_scene load_steps=5 format=3 uid="uid://ex3dfvb52m58"]
+
+[ext_resource type="PackedScene" uid="uid://v3jybloh10vb" path="res://Resources/Scenes/Player.tscn" id="1_egf70"]
+[ext_resource type="Texture2D" uid="uid://ettohdbv665p" path="res://Resources/Arts/Tileset/tileset_forest.png" id="2_fylxu"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_eyfg5"]
+texture = ExtResource("2_fylxu")
+2:0/0 = 0
+2:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+2:0/0/physics_layer_0/angular_velocity = 0.0
+3:0/0 = 0
+3:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+3:0/0/physics_layer_0/angular_velocity = 0.0
+5:0/0 = 0
+5:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+5:0/0/physics_layer_0/angular_velocity = 0.0
+2:1/0 = 0
+2:1/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+2:1/0/physics_layer_0/angular_velocity = 0.0
+3:1/0 = 0
+3:1/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+3:1/0/physics_layer_0/angular_velocity = 0.0
+4:1/0 = 0
+4:1/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+4:1/0/physics_layer_0/angular_velocity = 0.0
+5:1/0 = 0
+5:1/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+5:1/0/physics_layer_0/angular_velocity = 0.0
+6:1/0 = 0
+6:1/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+6:1/0/physics_layer_0/angular_velocity = 0.0
+8:1/0 = 0
+8:1/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+8:1/0/physics_layer_0/angular_velocity = 0.0
+8:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
+1:2/0 = 0
+1:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+1:2/0/physics_layer_0/angular_velocity = 0.0
+2:2/0 = 0
+2:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+2:2/0/physics_layer_0/angular_velocity = 0.0
+3:2/0 = 0
+3:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+3:2/0/physics_layer_0/angular_velocity = 0.0
+4:2/0 = 0
+4:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+4:2/0/physics_layer_0/angular_velocity = 0.0
+5:2/0 = 0
+5:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+5:2/0/physics_layer_0/angular_velocity = 0.0
+6:2/0 = 0
+6:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+6:2/0/physics_layer_0/angular_velocity = 0.0
+1:3/0 = 0
+1:3/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+1:3/0/physics_layer_0/angular_velocity = 0.0
+2:3/0 = 0
+2:3/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+2:3/0/physics_layer_0/angular_velocity = 0.0
+3:3/0 = 0
+3:3/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+3:3/0/physics_layer_0/angular_velocity = 0.0
+4:3/0 = 0
+4:3/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+4:3/0/physics_layer_0/angular_velocity = 0.0
+5:3/0 = 0
+5:3/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+5:3/0/physics_layer_0/angular_velocity = 0.0
+6:3/0 = 0
+6:3/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+6:3/0/physics_layer_0/angular_velocity = 0.0
+8:3/0 = 0
+8:3/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+8:3/0/physics_layer_0/angular_velocity = 0.0
+9:3/0 = 0
+9:3/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+9:3/0/physics_layer_0/angular_velocity = 0.0
+9:3/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
+10:3/0 = 0
+10:3/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+10:3/0/physics_layer_0/angular_velocity = 0.0
+1:4/0 = 0
+1:4/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+1:4/0/physics_layer_0/angular_velocity = 0.0
+2:4/0 = 0
+2:4/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+2:4/0/physics_layer_0/angular_velocity = 0.0
+3:4/0 = 0
+3:4/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+3:4/0/physics_layer_0/angular_velocity = 0.0
+4:4/0 = 0
+4:4/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+4:4/0/physics_layer_0/angular_velocity = 0.0
+5:4/0 = 0
+5:4/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+5:4/0/physics_layer_0/angular_velocity = 0.0
+6:4/0 = 0
+6:4/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+6:4/0/physics_layer_0/angular_velocity = 0.0
+
+[sub_resource type="TileSet" id="TileSet_ff51w"]
+physics_layer_0/collision_layer = 1
+sources/0 = SubResource("TileSetAtlasSource_eyfg5")
+
+[node name="Game" type="Node2D"]
+
+[node name="Player" parent="." instance=ExtResource("1_egf70")]
+scale = Vector2(0.5, 0.5)
+
+[node name="Camera2D" type="Camera2D" parent="."]
+
+[node name="TileMap" type="TileMap" parent="."]
+position = Vector2(14, -12)
+tile_set = SubResource("TileSet_ff51w")
+format = 2
+layer_0/tile_data = PackedInt32Array(589812, 589824, 3, 589813, 589824, 3, 589814, 589824, 3, 589815, 589824, 3, 589816, 589824, 3, 589817, 589824, 3, 589818, 589824, 3, 589819, 589824, 3, 589820, 589824, 3, 589821, 589824, 3, 589822, 589824, 3, 589823, 589824, 3, 524288, 589824, 3, 524289, 589824, 3, 524290, 589824, 3, 524291, 589824, 3, 524292, 589824, 3, 524293, 589824, 3, 524294, 589824, 3, 524295, 589824, 3, 524296, 589824, 3, 524297, 589824, 3, 524298, 589824, 3, 524299, 589824, 3, 524300, 589824, 3, 524301, 589824, 3, 524302, 589824, 3, 524303, 589824, 3, 524304, 589824, 3, 524305, 589824, 3, 524306, 589824, 3, 524307, 589824, 3, 524308, 589824, 3, 524309, 589824, 3, 524310, 589824, 3, 524311, 589824, 3, 524312, 589824, 3, 524313, 589824, 3, 524319, 589824, 3, 524320, 589824, 3, 524321, 589824, 3, 524322, 589824, 3, 524323, 589824, 3, 524324, 589824, 3, 524325, 589824, 3, 524326, 589824, 3, 524327, 589824, 3, 524318, 589824, 3, 524317, 589824, 3, 524316, 589824, 3, 524315, 589824, 3, 524314, 589824, 3, 589811, 589824, 3, 524328, 589824, 3, 524329, 589824, 3, 524330, 589824, 3, 524331, 589824, 3, 524332, 589824, 3, 131091, 589824, 3, 131092, 589824, 3, 131093, 589824, 3, 131094, 589824, 3, 131095, 589824, 3, 131096, 589824, 3, 131097, 589824, 3, 131098, 589824, 3, 131099, 589824, 3, 131100, 589824, 3, 131101, 589824, 3, 131102, 589824, 3, 131103, 589824, 3, -131036, 589824, 3, -131031, 589824, 3, -131030, 589824, 3, -131029, 589824, 3, -131028, 589824, 3, -131027, 589824, 3, -131034, 589824, 3, -131035, 589824, 3, -131068, 589824, 3, -131067, 589824, 3, -131066, 589824, 3, -131065, 589824, 3, -131064, 589824, 3, -131063, 589824, 3, -131062, 589824, 3, -131061, 589824, 3, -131060, 589824, 3, -131059, 589824, 3, -131058, 589824, 3, -131057, 589824, 3, -131032, 589824, 3, -131033, 589824, 3)
